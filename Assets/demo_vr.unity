@@ -331,6 +331,11 @@ Prefab:
       propertyPath: m_BounceIntensity
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 108809217495678522, guid: 43e16419b88f0704ba72ae0e32534cc1,
+        type: 2}
+      propertyPath: m_Shadows.m_Type
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 43e16419b88f0704ba72ae0e32534cc1, type: 2}
   m_IsPrefabParent: 0
@@ -584,6 +589,12 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 23963163180242760, guid: be66aef98a522f14d8eba16d86c70a45,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 21893467901648208, guid: 856cc1bb12819b7458f4f42a58843854,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: be66aef98a522f14d8eba16d86c70a45, type: 2}
   m_IsPrefabParent: 0
