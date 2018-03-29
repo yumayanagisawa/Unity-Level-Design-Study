@@ -1,6 +1,8 @@
 # Unity-Color-Grading(Level Design)
 I wanted to explore how the postprocessing stack could change the renderd image in Unity. Several screenshots are shown below, which might help you understand each diffrence. Hope that would help you develop cool stuff ;)
 
+![Screenshot-generate-lighting](Screenshot-generate-lighting.png)
+
 ![Screenshot-postprocessing-on.png](Screenshot-postprocessing-on.png)
 ![Screenshot-postprocessing-off.png](Screenshot-postprocessing-off.png)
 
