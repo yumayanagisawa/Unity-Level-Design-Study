@@ -1,8 +1,16 @@
 # Unity-Color-Grading(Level Design)
 I wanted to explore how the postprocessing stack could change the renderd image in Unity. Several screenshots are shown below, which might help you understand each diffrence. Hope that would help you develop cool stuff ;)
+## samples
+### Minimal Cubes
+![Screenshot-minimal-cubes](Screenshot-minimal-cubes.png)
+- [Minimalist color palettes](https://www.behance.net/gallery/32154055/Minimalist-Color-Palettes-2015) 
+- Reflective floor(reflection probe: light mat size = 1024) + two directional lights (two shadow sources) + point light(currently one) + ambient light
+  *[Reflective floor](http://twiik.net/articles/realtime-reflections-in-unity-5)
 
+### sheeps
+#### ambient light
 ![Screenshot-generate-lighting](Screenshot-generate-lighting.png)
-
+#### post processing stack
 ![Screenshot-postprocessing-on.png](Screenshot-postprocessing-on.png)
 ![Screenshot-postprocessing-off.png](Screenshot-postprocessing-off.png)
 
