@@ -7,7 +7,7 @@ I wanted to explore how the postprocessing stack could change the renderd image 
 - Reflective floor(reflection probe: light mat size = 1024) + two directional lights (two shadow sources) + point light(currently one) + ambient light
   *[Reflective floor](http://twiik.net/articles/realtime-reflections-in-unity-5)
 
-### sheeps
+### sheep
 #### ambient light
 ![Screenshot-generate-lighting](Screenshots/Screenshot-generate-lighting.png)
 #### post processing stack
